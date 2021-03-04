@@ -2,9 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-Bateaux
-bateau
-bateaux
+*Bateaux*
+*bateau*
+*bateaux*
+*Bateau*
 
 # C extensions
 *.so
